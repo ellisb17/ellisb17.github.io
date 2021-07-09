@@ -8,12 +8,12 @@ body {
 
 header {
   background-image: url("sphere drawing.PNG");
-  background-position: center top;
+  background-position: right top;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   line-height: 1.2;
   padding: 10vw 2em;
-  text-align: center;
+  text-align: left;
 }
 
 ul {
